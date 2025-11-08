@@ -13,8 +13,7 @@ Our mission is to empower developers and users by enabling transparent, scalable
 - Secure and modular architecture
 
 ### Future Scope
-Future versions will include extended smart contract modules, enhanced automation, and integration with Web3 DApps.
-
+Future versions of the project will include extended smart contract modules, enhanced automation features, and seamless integration with Web3 decentralized applications (DApps) to improve scalability, usability, and interoperability.
 
 
 ### Contract address:
