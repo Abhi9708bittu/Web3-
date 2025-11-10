@@ -4,7 +4,7 @@
 Web3Fusion is a blockchain-powered decentralized platform designed to deliver high efficiency and optimized gas consumption, enabling seamless and cost-effective transactions on the network.
 
 ### Project Vision
-Our mission is to empower developers and users by enabling transparent, scalable, and secure smart contract solutions.
+Our mission is to empower developers and users worldwide to build with confidence through transparent, scalable, and secure smart contract solutions.
 
 ### Key Features
 - Minimal gas consumption
