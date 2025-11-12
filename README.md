@@ -1,4 +1,4 @@
-# Web3Fusion
+## Web3Fusion
 
 ### Project Description
 Web3Fusion is a blockchain-powered decentralized platform designed to deliver high efficiency and optimized gas consumption, enabling seamless and cost-effective transactions on the network.
